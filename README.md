@@ -1,4 +1,4 @@
-<img src='./public/img.png' alt='app' />
+<img src='./public/imges.png' alt='app' />
 
 # Img app
 
